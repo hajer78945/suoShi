@@ -30,7 +30,19 @@ https://github.com/mozilla-mobile/firefox-android/releases
 
 
 
+## 国内一加刷Oxygen氧OS的地址为海外版一加Oneplus官网
 
+https://www.oneplus.com/global
+
+点击Support，`注意这里的global可以换为us、uk、in等，以对于需要的版本`
+
+https://service.oneplus.com/global
+
+点击Software Upgrade，选择机型
+
+
+
+- 另：Google play上有社区版`Oxygen Updater`安装器可以使用
 
 
 
