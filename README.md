@@ -40,15 +40,22 @@ https://service.oneplus.com/global
 
 点击Software Upgrade，选择机型
 
+- 目前似乎官网没有 ONEPLUS 11 之后的官方包了
 
 
 - 另：Google play上有社区版`Oxygen Updater`安装器可以使用
 
 
+## Surge设置局域网 （忘了）
+
+填写198.  然后加端口
 
 
 
+## OpenAI Key临时使用
 
-
+```bash
+export OPENAI_API_KEY='your_openai_api_key'
+```
 
 
