@@ -60,6 +60,7 @@ export OPENAI_API_KEY='your_openai_api_key'
 
 ## 登录远程服务器Remote server不用密码
 
+```bash
 ssh-copy-id -i ~/.ssh/id_ed25519.pub remote_user@server_address
-
+```
 
